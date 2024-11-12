@@ -1,0 +1,2 @@
+Library provides functions for bilinear (trilinear) interpolation on 
+rectangular grids in two ( three ) dimensions. 

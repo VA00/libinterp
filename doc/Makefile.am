@@ -1,0 +1,1 @@
+EXTRA_DIST = example2d.c example3d.c example2d_grid.c test2d.dat
