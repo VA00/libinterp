@@ -1,2 +1,7 @@
 Library provides functions for bilinear (trilinear) interpolation on 
 rectangular grids in two ( three ) dimensions. 
+
+## Citation
+If you use this code in your research, please cite the following paper:
+
+- [A. Odrzywolek, Atomic Data and Nuclear Data Tables 98 (2012) 852-861, https://dx.doi.org/10.1016/j.adt.2012.06.002]
